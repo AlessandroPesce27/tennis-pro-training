@@ -78,4 +78,4 @@ else:
     st.info("No workouts logged yet. Complete a session above to start tracking!")
 
 # --- Footer ---
-st.caption("Designed by ChatGPT & Alessandro for tennis warriors 💪")
+st.caption("Designed by Alessandro for tennis warriors 💪")
